@@ -1,0 +1,21 @@
+# Python 缓存
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+
+# 系统文件
+.DS_Store
+Thumbs.db
+
+# 生成物与临时文件（按需保留自己的素材目录）
+*.zip
+/assets_raw/
+/submit/
+/frames/
+/programmatic/
+/sheets/
+/gifs_raw/
+预览.html
+预览.png
